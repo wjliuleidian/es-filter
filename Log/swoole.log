@@ -1,0 +1,16 @@
+[2020-12-14 17:32:03 $135.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2020-12-14 17:32:03 #134.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2020-12-14 17:32:03 $135.0]	WARNING	swManager_check_exit_status: worker#8[pid=145] abnormal exit, status=0, signal=1
+[2020-12-14 17:32:03 $135.0]	WARNING	swManager_check_exit_status: worker#9[pid=146] abnormal exit, status=0, signal=1
+[2020-12-14 17:32:03 *144.7]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2020-12-14 17:32:03 *141.4]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2020-12-14 17:32:03 *140.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2020-12-14 17:32:03 *142.5]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2020-12-14 17:32:03 *143.6]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2020-12-14 17:32:03 *139.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2020-12-14 17:32:03 *137.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2020-12-14 17:32:03 $135.0]	WARNING	swManager_check_exit_status: worker#10[pid=147] abnormal exit, status=0, signal=1
+[2020-12-14 17:32:03 $135.0]	WARNING	swManager_check_exit_status: worker#11[pid=148] abnormal exit, status=0, signal=1
+[2020-12-14 17:32:03 $135.0]	WARNING	swManager_check_exit_status: worker#12[pid=149] abnormal exit, status=0, signal=1
+[2020-12-14 17:32:03 *138.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2020-12-15 09:38:59 #134.1]	INFO	Server is shutdown now
